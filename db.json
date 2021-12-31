@@ -1,0 +1,41 @@
+{
+  "workers": [
+    {
+      "id": 1,
+      "name": "Mark",
+      "surname": "Green",
+      "address": "Corso Italia, 11",
+      "phone": 3330430302
+    },
+    {
+      "id": 2,
+      "name": "jhon",
+      "surname": "Smith",
+      "address": "Corso Francia, 21",
+      "phone": 3265987412
+    },
+    {
+      "id": 3,
+      "name": "Laura",
+      "surname": "Jhonson",
+      "address": "Via Verdi, 102",
+      "phone": 3330130302
+    },
+    {
+      "id": 4,
+      "name": "Andrea",
+      "surname": "Bianchi",
+      "address": "Via Rossini, 4",
+      "phone": 3126549877
+    }
+  ],
+  "users_login": [
+    {
+      "id": 1,
+      "name": "Mario",
+      "surname": "Rossi",
+      "email": "mario@gmail.com",
+      "password": "1Mariorossi!"
+    }
+  ]
+}

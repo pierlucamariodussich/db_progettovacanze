@@ -1,5 +1,5 @@
 {
-  "lunarossa_list": [
+  "details": [
     {
       "id":0,
       "title": "Baglio massimo:",
@@ -48,6 +48,113 @@
       "title": "Equipaggio:",
       "description": "11 velisti",
       "category":"bridge"
+    }
+  ],
+  "team":[
+    {
+      "id":0,
+      "name":"Max Sirena",
+      "role":"Team Director & Skipper"
+    },
+    {
+      "id":1,
+      "name":"Gilberto Nobili",
+      "role":"Operations Manager"
+    },
+    {
+      "id":2,
+      "name":"Francesco Bruni",
+      "role":"Sailor"
+    },
+    {
+      "id":3,
+      "name":"Jimmy Spithill",
+      "role":"Sailor"
+    },
+    {
+      "id":4,
+      "name":"Pietro Sibello",
+      "role":"Sailor"
+    },
+    {
+      "id":5,
+      "name":"Vasco Vascotto",
+      "role":"Sailor"
+    },
+    {
+      "id":6,
+      "name":"Shannon Falcone",
+      "role":"Sailor"
+    },
+    {
+      "id":7,
+      "name":"Francesco Mario Mongelli",
+      "role":"Sailor"
+    },
+    {
+      "id":8,
+      "name":"Pierluigi de Felice",
+      "role":"Sailor"
+    },
+    {
+      "id":9,
+      "name":"Michele Cannoni",
+      "role":"Sailor"
+    },
+    {
+      "id":10,
+      "name":"Umberto Molineris",
+      "role":"Sailor"
+    },
+    {
+      "id":11,
+      "name":"Romano Battisti",
+      "role":"Sailor"
+    },
+    {
+      "id":12,
+      "name":"Andrea Tesei",
+      "role":"Sailor"
+    },
+    {
+      "id":13,
+      "name":"Davide Cannata",
+      "role":"Sailor"
+    },
+    {
+      "id":14,
+      "name":"Enrico Voltolini",
+      "role":"Sailor"
+    },
+    {
+      "id":15,
+      "name":"Jacopo Plazzi",
+      "role":"Sailor"
+    },
+    {
+      "id":16,
+      "name":"Matteo Celon",
+      "role":"Sailor"
+    },
+    {
+      "id":17,
+      "name":"Nicholas Brezzi",
+      "role":"Sailor"
+    },
+    {
+      "id":18,
+      "name":"Emanuele Liuzzi",
+      "role":"Sailor"
+    },
+    {
+      "id":19,
+      "name":"Philippe Presti",
+      "role":"Coach"
+    },
+    {
+      "id":20,
+      "name":"Marco Mercuriali",
+      "role":"Rules Coach"
     }
   ]
 }

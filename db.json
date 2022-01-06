@@ -1,43 +1,39 @@
 {
-  "lunarossa": [
+  "lunarossa_profile": [
     {
-      "profile": [
-        {
-          "title": "Baglio massimo:",
-          "description": "5 metri"
-        },
-        {
-          "title": "Peso:",
-          "description": "6.5 Tonnellate"
-        },
-        {
-          "title": "Altezza Albero:",
-          "description": "26,5 metri dalla coperta"
-        },
-        {
-          "title": "Vele:",
-          "description": "Doppia Randa: 135 - 145 m² | Fiocco:  90 m² | CodeZero:  200 m²"
-        }
-      ],
-      "bridge": [
-        {
-          "title": "Lunghezza scafo:",
-          "description": "20.7 metri + bompresso 2 m"
-        },
-        {
-          "title": "Timone centrale con wing:",
-          "description": "Massima immersione 3,5 m | Massimo arco della wing 3 m"
-        },
-        {
-          "title": "Due Foil con wing e flap:",
-          "description": "Massima immersione 5 m | Massimo arco della foil wing 4 m"
-        },
-        {
-          "title": "Equipaggio:",
-          "description": "11 velisti"
-        }
-      ]
+      "title": "Baglio massimo:",
+      "description": "5 metri"
+    },
+    {
+      "title": "Peso:",
+      "description": "6.5 Tonnellate"
+    },
+    {
+      "title": "Altezza Albero:",
+      "description": "26,5 metri dalla coperta"
+    },
+    {
+      "title": "Vele:",
+      "description": "Doppia Randa: 135 - 145 m² | Fiocco:  90 m² | CodeZero:  200 m²"
     }
-   
+  ],
+  "lunarossa_bridge": [
+    {
+      "title": "Lunghezza scafo:",
+      "description": "20.7 metri + bompresso 2 m"
+    },
+    {
+      "title": "Timone centrale con wing:",
+      "description": "Massima immersione 3,5 m | Massimo arco della wing 3 m"
+    },
+    {
+      "title": "Due Foil con wing e flap:",
+      "description": "Massima immersione 5 m | Massimo arco della foil wing 4 m"
+    },
+    {
+      "title": "Equipaggio:",
+      "description": "11 velisti"
+    }
   ]
 }
+

@@ -1,41 +1,43 @@
 {
-  "workers": [
+  "lunarossa": [
     {
-      "id": 0,
-      "name": "Mark",
-      "surname": "Green",
-      "address": "Corso Italia, 11",
-      "phone": 3330430302
-    },
-    {
-      "id": 1,
-      "name": "jhon",
-      "surname": "Smith",
-      "address": "Corso Francia, 21",
-      "phone": 3265987412
-    },
-    {
-      "id": 2,
-      "name": "Laura",
-      "surname": "Jhonson",
-      "address": "Via Verdi, 102",
-      "phone": 3330130302
-    },
-    {
-      "id": 3,
-      "name": "Andrea",
-      "surname": "Bianchi",
-      "address": "Via Rossini, 4",
-      "phone": 3126549877
+      "profile": [
+        {
+          "title": "Baglio massimo:",
+          "description": "5 metri"
+        },
+        {
+          "title": "Peso:",
+          "description": "6.5 Tonnellate"
+        },
+        {
+          "title": "Altezza Albero:",
+          "description": "26,5 metri dalla coperta"
+        },
+        {
+          "title": "Vele:",
+          "description": "Doppia Randa: 135 - 145 m² | Fiocco:  90 m² | CodeZero:  200 m²"
+        }
+      ],
+      "bridge": [
+        {
+          "title": "Lunghezza scafo:",
+          "description": "20.7 metri + bompresso 2 m"
+        },
+        {
+          "title": "Timone centrale con wing:",
+          "description": "Massima immersione 3,5 m | Massimo arco della wing 3 m"
+        },
+        {
+          "title": "Due Foil con wing e flap:",
+          "description": "Massima immersione 5 m | Massimo arco della foil wing 4 m"
+        },
+        {
+          "title": "Equipaggio:",
+          "description": "11 velisti"
+        }
+      ]
     }
-  ],
-  "users_login": [
-    {
-      "id": 0,
-      "name": "Mario",
-      "surname": "Rossi",
-      "email": "mario@gmail.com",
-      "password": "1Mariorossi!"
-    }
+   
   ]
 }

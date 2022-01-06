@@ -1,42 +1,50 @@
 {
   "lunarossa_list": [
     {
+      "id":0,
       "title": "Baglio massimo:",
       "description": "5 metri",
       "category":"profile"
 
     },
     {
+      "id":1,
       "title": "Peso:",
       "description": "6.5 Tonnellate",
       "category":"profile"
     },
     {
+      "id":2,
       "title": "Altezza Albero:",
       "description": "26,5 metri dalla coperta",
       "category":"profile"
     },
     {
+      "id":3,
       "title": "Vele:",
       "description": "Doppia Randa: 135 - 145 m² | Fiocco:  90 m² | CodeZero:  200 m²",
       "category":"profile"
     },
     {
+      "id":4,
       "title": "Lunghezza scafo:",
       "description": "20.7 metri + bompresso 2 m",
       "category":"bridge"
     },
     {
+      "id":5,
       "title": "Timone centrale con wing:",
       "description": "Massima immersione 3,5 m | Massimo arco della wing 3 m",
       "category":"bridge"
     },
     {
+      "id":6,
       "title": "Due Foil con wing e flap:",
       "description": "Massima immersione 5 m | Massimo arco della foil wing 4 m",
       "category":"bridge"
     },
     {
+      "id":7,
       "title": "Equipaggio:",
       "description": "11 velisti",
       "category":"bridge"

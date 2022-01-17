@@ -156,6 +156,43 @@
       "name":"Marco Mercuriali",
       "role":"Rules Coach"
     }
+  ], 
+  "sailboats":[
+  {
+    "id": "0",
+    "circoloVelico": "Circolo della Vela Sicilia",
+    "name": "LunaRossa",
+    "img":"https://www.americascup.com/images/m4206_crop169014_2000x2000_proportional_16119799880FB3.jpg",
+    "nation":"Italy",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/2560px-Flag_of_Italy.svg.png"
+
+  },
+  {
+    "id": "1",
+    "circoloVelico": "Royal New Zealand Yacht Squadron",
+    "name": "Emiretes Team New Zeland",
+    "img": "https://sailbiz.it/wp-content/uploads/2021/02/ETNZ_inAction.jpg",
+    "nation": "New Zeland",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/2560px-Flag_of_New_Zealand.svg.png"
+
+  },
+  {
+    "id": "2",
+    "circoloVelico": " Royal Yacht Squadron",
+    "name": "Inneos Britannia",
+    "img": "https://i0.wp.com/www.cagliaripost.com/wp-content/uploads/2020/10/m7864_C-GREGORY_20201023_AS7I0176.jpg?fit=1200%2C800&ssl=1",
+    "nation": "United kingdom",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Flag_of_the_United_Kingdom.svg/640px-Flag_of_the_United_Kingdom.svg.png"
+  },
+  {
+    "id": "3",
+    "circoloVelico": "New York Yacht Club",
+    "name": "American Magic",
+    "img": "https://sailbiz.it/wp-content/uploads/2021/01/201112_SLAYTER_AUCKLAND_55668-2048x2048.jpg",
+    "nation": "USA",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Flag_of_the_United_States_%281846%E2%80%931847%29.svg"
+
+  }
   ]
 }
 
